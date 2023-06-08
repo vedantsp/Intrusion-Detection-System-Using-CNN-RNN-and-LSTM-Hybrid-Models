@@ -1,1 +1,1 @@
-# Intrusuin-Detection-System-Using-CNN-RNN-and-LSTM-Hybrid-Models
+# Intrusion-Detection-System-Using-CNN-RNN-and-LSTM-Hybrid-Models
