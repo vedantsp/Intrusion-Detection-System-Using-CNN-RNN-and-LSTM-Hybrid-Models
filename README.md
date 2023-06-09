@@ -5,3 +5,6 @@ Neural networks could quickly predict the type and categorization of future data
 
 The project Report - 
 https://github.com/vedantsp/Intrusion-Detection-System-Using-CNN-RNN-and-LSTM-Hybrid-Models/blob/main/Documentation/IDS%20Report.pdf
+
+[Open PDF](https://drive.google.com/viewerng/viewer?src=[https://drive.google.com/file/d/1AvcFYP7JMUj7_OtBFM37aF5rc0s6JIfs/view?usp=sharing])
+
